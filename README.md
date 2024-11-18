@@ -35,4 +35,4 @@ The **Email Slicing Project** is a Python program designed to extract meaningful
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/email-slicing-project.git
+   git clone https://github.com/naveenbighan/Email-slicer.git
