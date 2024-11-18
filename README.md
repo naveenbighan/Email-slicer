@@ -2,7 +2,7 @@
 
 ## 📧 Overview
 
-The **Email Slicing Project** is a Python program designed to extract meaningful parts of an email address, such as the username and domain name. It demonstrates basic string manipulation skills and serves as a fun yet practical way to explore Python programming.
+The **Email Slicing Project** is a Python program designed to extract meaningful parts of an email address, such as the username and domain name. It demonstrates basic string manipulation skills and serves as a fun yet practical way to explore Python programming..
 
 ---
 
